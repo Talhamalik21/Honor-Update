@@ -1,0 +1,6 @@
+{
+  "name": "MagicOS Update",
+  "description": "Premium software update helper and systems diagnostic utility for Honor devices, featuring real-time updates and notification triggers, firmware download histories, and full-device diagnostic telemetry with Gemini AI integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
